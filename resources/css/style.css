@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+
+body {
+  background-color: #a9d7d1;
+  font-family: 'Raleway', Helvetica, sans-serif;
+  text-align: center;
+}
+
+#survey-form {
+  background-color: white;
+  margin: 0 auto;
+  width: 75%;
+  padding: 20px 10px 10px 10px;
+  border-radius: 4px;
+}
+
+p {
+  margin-top: auto;
+}
